@@ -3,14 +3,14 @@
 For this program, I am trying to make a simple web app. It is a very simple portfolio that showcases some of the past projects I have done in classes. 
 I am trying to learn how to create a web app using the Django framework and Python.
 To start the Web App:
-* Make sure you have the most recent version of Python downloaded.
-* Download the repository
-* Open a Command Prompt
-* CD to the root of the repository files
-* run the following command: ```python manage.py runserver```
-* in your web browser, navigate to the following page: ```http://localhost:8000```
+* Ensure you have the latest version of Python installed on your system.
+* Download the repository containing the project files.
+* Open a Command Prompt window.
+* Navigate to the root directory of the repository files using the ```cd``` command.
+* Start the development server by running the command: ```python manage.py runserver```.
+* Access the web app by opening your web browser and visiting: ```http://localhost:8000```.
 
-Below is a video that shows a brief overview of what the program does and briefly how it works.
+For a quick overview of the program and its functionality, watch the provided Software Demo Video.
 
 [Software Demo Video](https://youtu.be/Sd9kDbFmry4)
 
